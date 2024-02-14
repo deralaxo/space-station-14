@@ -650,6 +650,11 @@
   description: flavor-complex-space-up-soda
 
 - type: flavor
+  id: żubr
+  flavorType: Complex
+  description: flavor-complex-zubr-soda
+
+- type: flavor
   id: grapesoda
   flavorType: Complex
   description: flavor-complex-grape-soda

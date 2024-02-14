@@ -238,6 +238,24 @@
 
 - type: entity
   parent: DrinkCanBaseFull
+  id: DrinkŻubrCan
+  name: Żubr can
+  description: Piwo Żubr ma klarowną, złotą barwę i umiarkowaną pianę. W smaku jest słodowe z wyczuwalną goryczką chmielu i nutą karmelu. Finisz jest rześki i lekko wytrawny.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 30
+        reagents:
+        - ReagentId: Żubr
+          Quantity: 30
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/żubr.rsi
+  - type: Item
+    sprite: Objects/Consumable/Drinks/żubr.rsi
+
+- type: entity
+  parent: DrinkCanBaseFull
   id: DrinkStarkistCan
   name: starkist can
   description: The taste of a star in liquid form. And, a bit of tuna...?

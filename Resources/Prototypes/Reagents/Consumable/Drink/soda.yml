@@ -129,6 +129,15 @@
   color: "#e3e3e37d"
 
 - type: reagent
+  id: Żubr
+  name: reagent-name-zubr
+  parent: BaseSoda
+  desc: reagent-desc-zubr
+  physicalDesc: reagent-physical-desc-fizzy
+  flavor: żubr
+  color: "#e7b873"
+
+- type: reagent
   id: Starkist
   name: reagent-name-starkist
   parent: BaseSoda

@@ -193,6 +193,7 @@ flavor-complex-pwr-game-soda = like gaming
 flavor-complex-root-beer-soda = like root beer
 flavor-complex-citrus-soda = like citrus soda
 flavor-complex-space-up-soda = like space
+flavor-complex-zubr-soda = like poland
 flavor-complex-starkist-soda = like orange soda
 flavor-complex-fourteen-loko-soda = like sweet malt
 flavor-complex-vodka = like fermented grain

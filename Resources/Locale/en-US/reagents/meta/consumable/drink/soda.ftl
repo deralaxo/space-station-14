@@ -34,6 +34,9 @@ reagent-desc-space-mountain-wind = Blows right through you like a space wind.
 reagent-name-space-up = Space-Up
 reagent-desc-space-up = Tastes like a hull breach in your mouth.
 
+reagent-name-zubr = Żubr
+reagent-desc-zubr = Piwo Żubr ma klarowną, złotą barwę i umiarkowaną pianę. W smaku jest słodowe z wyczuwalną goryczką chmielu i nutą karmelu. Finisz jest rześki i lekko wytrawny.
+
 reagent-name-starkist = starkist
 reagent-desc-starkist = A sweet, orange flavored soft drink.
 
